@@ -1,2 +1,2 @@
-# Coursera_Capston
+# Coursera_Capstone
 Applied Data Science Capstone book
